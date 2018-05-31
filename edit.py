@@ -6,6 +6,8 @@ global c
 global dat
 global data
 c=0
+dat=""
+data=""
 def appear(data):
 	l=0
 	dat = ""
